@@ -1,0 +1,2286 @@
+{
+  "status": "success",
+  "data": {
+    "courses": [
+      {
+        "course_code": "1316-1-1",
+        "course_name": "Software Engineering",
+        "formal_code": "CSE 3421",
+        "credits": 3,
+        "have_mapped_sections": false,
+        "mapped_section_ids": [],
+        "sections": [
+          {
+            "section_id": "f6b33ba5-6d6b-4359-b8ff-68fa41bfa058",
+            "section_name": "A",
+            "faculty_name": "Syed Abu Ammar Muhammad Zarif",
+            "faculty_code": "SAMZ",
+            "faculty_email": "",
+            "room_details": "401",
+            "formal_code": "CSE 3421",
+            "schedule": [
+              {
+                "day": "Saturday",
+                "start_time": "08:30",
+                "end_time": "09:50"
+              },
+              {
+                "day": "Tuesday",
+                "start_time": "08:30",
+                "end_time": "09:50"
+              }
+            ],
+            "credits": 3,
+            "total_seats": 45,
+            "seats_taken": 0,
+            "course_code": "1316-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 45,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "0749248c-4284-4e11-ab32-4c53f3c99943",
+            "section_name": "B",
+            "faculty_name": "Samin Sharaf Somik",
+            "faculty_code": "SSSk",
+            "faculty_email": "samin@cse.uiu.ac.bd",
+            "room_details": "403",
+            "formal_code": "CSE 3421",
+            "schedule": [
+              {
+                "day": "Saturday",
+                "start_time": "11:11",
+                "end_time": "12:30"
+              },
+              {
+                "day": "Tuesday",
+                "start_time": "11:11",
+                "end_time": "12:30"
+              }
+            ],
+            "credits": 3,
+            "total_seats": 45,
+            "seats_taken": 0,
+            "course_code": "1316-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 45,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "57ad9533-30e3-4317-b50b-d84ed4b16665",
+            "section_name": "C",
+            "faculty_name": "Syed Abu Ammar Muhammad Zarif",
+            "faculty_code": "SAMZ",
+            "faculty_email": "",
+            "room_details": "325",
+            "formal_code": "CSE 3421",
+            "schedule": [
+              {
+                "day": "Saturday",
+                "start_time": "12:31",
+                "end_time": "13:50"
+              },
+              {
+                "day": "Tuesday",
+                "start_time": "12:31",
+                "end_time": "13:50"
+              }
+            ],
+            "credits": 3,
+            "total_seats": 45,
+            "seats_taken": 0,
+            "course_code": "1316-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 45,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "267fd362-afa9-4ecb-8c16-619fbe6766c5",
+            "section_name": "D",
+            "faculty_name": "Samin Sharaf Somik",
+            "faculty_code": "SSSk",
+            "faculty_email": "samin@cse.uiu.ac.bd",
+            "room_details": "323",
+            "formal_code": "CSE 3421",
+            "schedule": [
+              {
+                "day": "Saturday",
+                "start_time": "13:51",
+                "end_time": "15:10"
+              },
+              {
+                "day": "Tuesday",
+                "start_time": "13:51",
+                "end_time": "15:10"
+              }
+            ],
+            "credits": 3,
+            "total_seats": 45,
+            "seats_taken": 0,
+            "course_code": "1316-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 45,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "86deb6b1-3c81-444c-b6e4-c83bd858080f",
+            "section_name": "E",
+            "faculty_name": "Samin Sharaf Somik",
+            "faculty_code": "SSSk",
+            "faculty_email": "samin@cse.uiu.ac.bd",
+            "room_details": "324",
+            "formal_code": "CSE 3421",
+            "schedule": [
+              {
+                "day": "Sunday",
+                "start_time": "08:30",
+                "end_time": "09:50"
+              },
+              {
+                "day": "Wednesday",
+                "start_time": "08:30",
+                "end_time": "09:50"
+              }
+            ],
+            "credits": 3,
+            "total_seats": 45,
+            "seats_taken": 0,
+            "course_code": "1316-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 45,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "a9c8d499-1599-4e70-a552-25d95629247a",
+            "section_name": "F",
+            "faculty_name": "Sajid Ahmed Chowdhury",
+            "faculty_code": "SdACh",
+            "faculty_email": "sajidahmed@cse.uiu.ac.bd",
+            "room_details": "323",
+            "formal_code": "CSE 3421",
+            "schedule": [
+              {
+                "day": "Sunday",
+                "start_time": "09:51",
+                "end_time": "11:10"
+              },
+              {
+                "day": "Wednesday",
+                "start_time": "09:51",
+                "end_time": "11:10"
+              }
+            ],
+            "credits": 3,
+            "total_seats": 45,
+            "seats_taken": 0,
+            "course_code": "1316-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 45,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "1c7994ef-c76e-4b50-9f7d-62b0f915fec3",
+            "section_name": "G",
+            "faculty_name": "Md. Benzir Ahmed",
+            "faculty_code": "MBAd",
+            "faculty_email": "benzir@cse.uiu.ac.bd",
+            "room_details": "325",
+            "formal_code": "CSE 3421",
+            "schedule": [
+              {
+                "day": "Sunday",
+                "start_time": "11:11",
+                "end_time": "12:30"
+              },
+              {
+                "day": "Wednesday",
+                "start_time": "11:11",
+                "end_time": "12:30"
+              }
+            ],
+            "credits": 3,
+            "total_seats": 45,
+            "seats_taken": 0,
+            "course_code": "1316-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 45,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "b0de211b-8c69-49cc-86c7-f37069abb41e",
+            "section_name": "H",
+            "faculty_name": "TBA",
+            "faculty_code": "TBA",
+            "faculty_email": "N/A",
+            "room_details": "324",
+            "formal_code": "CSE 3421",
+            "schedule": [
+              {
+                "day": "Sunday",
+                "start_time": "12:31",
+                "end_time": "13:50"
+              },
+              {
+                "day": "Wednesday",
+                "start_time": "12:31",
+                "end_time": "13:50"
+              }
+            ],
+            "credits": 3,
+            "total_seats": 45,
+            "seats_taken": 0,
+            "course_code": "1316-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 45,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "5961f7c1-e947-4378-a5ba-fa78e3b8d4ae",
+            "section_name": "I",
+            "faculty_name": "Md. Benzir Ahmed",
+            "faculty_code": "MBAd",
+            "faculty_email": "benzir@cse.uiu.ac.bd",
+            "room_details": "401",
+            "formal_code": "CSE 3421",
+            "schedule": [
+              {
+                "day": "Sunday",
+                "start_time": "13:51",
+                "end_time": "15:10"
+              },
+              {
+                "day": "Wednesday",
+                "start_time": "13:51",
+                "end_time": "15:10"
+              }
+            ],
+            "credits": 3,
+            "total_seats": 45,
+            "seats_taken": 0,
+            "course_code": "1316-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 45,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "a060dafd-33ec-45f3-98e6-49a3da0e26b0",
+            "section_name": "J",
+            "faculty_name": "S M Jishanul Islam",
+            "faculty_code": "SMJI",
+            "faculty_email": "sislam201024@bscse.uiu.ac.bd",
+            "room_details": "404",
+            "formal_code": "CSE 3421",
+            "schedule": [
+              {
+                "day": "Sunday",
+                "start_time": "15:11",
+                "end_time": "16:30"
+              },
+              {
+                "day": "Wednesday",
+                "start_time": "15:11",
+                "end_time": "16:30"
+              }
+            ],
+            "credits": 3,
+            "total_seats": 45,
+            "seats_taken": 0,
+            "course_code": "1316-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 45,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "f6a96a2d-fdb0-4d55-8150-4ead48e03ffd",
+            "section_name": "K",
+            "faculty_name": "Md. Muhaiminul Islam Nafi",
+            "faculty_code": "MMIN",
+            "faculty_email": "muhaiminul@cse.uiu.ac.bd",
+            "room_details": "401",
+            "formal_code": "CSE 3421",
+            "schedule": [
+              {
+                "day": "Saturday",
+                "start_time": "09:51",
+                "end_time": "11:10"
+              },
+              {
+                "day": "Tuesday",
+                "start_time": "09:51",
+                "end_time": "11:10"
+              }
+            ],
+            "credits": 3,
+            "total_seats": 45,
+            "seats_taken": 0,
+            "course_code": "1316-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 45,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          }
+        ]
+      },
+      {
+        "course_code": "1317-1-1",
+        "course_name": "Software Engineering Laboratory",
+        "formal_code": "CSE 3422",
+        "credits": 1,
+        "have_mapped_sections": false,
+        "mapped_section_ids": [],
+        "sections": [
+          {
+            "section_id": "275c3c14-f13e-4afd-bcd2-5432f77555b0",
+            "section_name": "A",
+            "faculty_name": "TBA",
+            "faculty_code": "TBA",
+            "faculty_email": "N/A",
+            "room_details": "528 - Computer Lab",
+            "formal_code": "CSE 3422",
+            "schedule": [
+              {
+                "day": "Saturday",
+                "start_time": "08:30",
+                "end_time": "11:00"
+              }
+            ],
+            "credits": 1,
+            "total_seats": 35,
+            "seats_taken": 0,
+            "course_code": "1317-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 35,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "06db0123-59c0-45c2-b9ee-bf7f708dc606",
+            "section_name": "B",
+            "faculty_name": "Saifullah Mahbub",
+            "faculty_code": "SaMb",
+            "faculty_email": "saifornab@gmail.com",
+            "room_details": "532 - Computer Lab",
+            "formal_code": "CSE 3422",
+            "schedule": [
+              {
+                "day": "Saturday",
+                "start_time": "11:11",
+                "end_time": "13:40"
+              }
+            ],
+            "credits": 1,
+            "total_seats": 35,
+            "seats_taken": 0,
+            "course_code": "1317-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 35,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "8eca8d94-dc43-4380-afff-8b72b68ac385",
+            "section_name": "C",
+            "faculty_name": "Md. Muhaiminul Islam Nafi",
+            "faculty_code": "MMIN",
+            "faculty_email": "muhaiminul@cse.uiu.ac.bd",
+            "room_details": "529 - Computer Lab",
+            "formal_code": "CSE 3422",
+            "schedule": [
+              {
+                "day": "Saturday",
+                "start_time": "14:00",
+                "end_time": "16:30"
+              }
+            ],
+            "credits": 1,
+            "total_seats": 35,
+            "seats_taken": 0,
+            "course_code": "1317-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 35,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "b0739b6f-3fce-40f9-97dc-d72d9eb2ad3a",
+            "section_name": "D",
+            "faculty_name": "Sajid Ahmed Chowdhury",
+            "faculty_code": "SdACh",
+            "faculty_email": "sajidahmed@cse.uiu.ac.bd",
+            "room_details": "626 - Computer Lab",
+            "formal_code": "CSE 3422",
+            "schedule": [
+              {
+                "day": "Saturday",
+                "start_time": "11:11",
+                "end_time": "13:40"
+              }
+            ],
+            "credits": 1,
+            "total_seats": 35,
+            "seats_taken": 0,
+            "course_code": "1317-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 35,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "19f67348-7770-4636-a7c7-7008c015d787",
+            "section_name": "E",
+            "faculty_name": "Syed Abu Ammar Muhammad Zarif",
+            "faculty_code": "SAMZ",
+            "faculty_email": "",
+            "room_details": "426 - Computer Lab",
+            "formal_code": "CSE 3422",
+            "schedule": [
+              {
+                "day": "Sunday",
+                "start_time": "08:30",
+                "end_time": "11:00"
+              }
+            ],
+            "credits": 1,
+            "total_seats": 35,
+            "seats_taken": 0,
+            "course_code": "1317-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 35,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "b793c90e-bfff-4660-b1f9-0cd436a50648",
+            "section_name": "F",
+            "faculty_name": "Sajjad Ahmed",
+            "faculty_code": "SdAh",
+            "faculty_email": "sajjad.ahmed.cse@gmail.com",
+            "room_details": "532 - Computer Lab",
+            "formal_code": "CSE 3422",
+            "schedule": [
+              {
+                "day": "Sunday",
+                "start_time": "11:11",
+                "end_time": "13:40"
+              }
+            ],
+            "credits": 1,
+            "total_seats": 35,
+            "seats_taken": 0,
+            "course_code": "1317-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 35,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "631fae12-2780-435b-b463-7f62642a0bbe",
+            "section_name": "G",
+            "faculty_name": "Samin Sharaf Somik",
+            "faculty_code": "SSSk",
+            "faculty_email": "samin@cse.uiu.ac.bd",
+            "room_details": "530 - Computer Lab",
+            "formal_code": "CSE 3422",
+            "schedule": [
+              {
+                "day": "Sunday",
+                "start_time": "14:00",
+                "end_time": "16:30"
+              }
+            ],
+            "credits": 1,
+            "total_seats": 35,
+            "seats_taken": 0,
+            "course_code": "1317-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 35,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "5b4d5fe4-1643-427f-b4d2-4a380147e0a6",
+            "section_name": "H",
+            "faculty_name": "Abrar Mahmud",
+            "faculty_code": "ArMd",
+            "faculty_email": "abrar@cse.uiu.ac.bd",
+            "room_details": "427 - Computer Lab",
+            "formal_code": "CSE 3422",
+            "schedule": [
+              {
+                "day": "Sunday",
+                "start_time": "08:30",
+                "end_time": "11:00"
+              }
+            ],
+            "credits": 1,
+            "total_seats": 35,
+            "seats_taken": 0,
+            "course_code": "1317-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 35,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "2252c169-e8e3-44d5-b0db-b0e169f86182",
+            "section_name": "I",
+            "faculty_name": "Sabber Ahmed",
+            "faculty_code": "SrAd",
+            "faculty_email": "sabber999@gmail.com",
+            "room_details": "529 - Computer Lab",
+            "formal_code": "CSE 3422",
+            "schedule": [
+              {
+                "day": "Tuesday",
+                "start_time": "08:30",
+                "end_time": "11:00"
+              }
+            ],
+            "credits": 1,
+            "total_seats": 35,
+            "seats_taken": 0,
+            "course_code": "1317-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 35,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "133edfde-010f-45c7-b31a-a54af7e6a398",
+            "section_name": "J",
+            "faculty_name": "Sajid Ahmed Chowdhury",
+            "faculty_code": "SdACh",
+            "faculty_email": "sajidahmed@cse.uiu.ac.bd",
+            "room_details": "522 - Computer Lab",
+            "formal_code": "CSE 3422",
+            "schedule": [
+              {
+                "day": "Tuesday",
+                "start_time": "11:11",
+                "end_time": "13:40"
+              }
+            ],
+            "credits": 1,
+            "total_seats": 35,
+            "seats_taken": 0,
+            "course_code": "1317-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 35,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "8b806b48-3bbf-4bf9-8501-17a6f42ce0b0",
+            "section_name": "K",
+            "faculty_name": "TBA",
+            "faculty_code": "TBA",
+            "faculty_email": "N/A",
+            "room_details": "528 - Computer Lab",
+            "formal_code": "CSE 3422",
+            "schedule": [
+              {
+                "day": "Tuesday",
+                "start_time": "14:00",
+                "end_time": "16:30"
+              }
+            ],
+            "credits": 1,
+            "total_seats": 35,
+            "seats_taken": 0,
+            "course_code": "1317-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 35,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "a0e3f662-c7e8-4bfc-8eb4-1b11a1343ef3",
+            "section_name": "M",
+            "faculty_name": "Abrar Mahmud",
+            "faculty_code": "ArMd",
+            "faculty_email": "abrar@cse.uiu.ac.bd",
+            "room_details": "522 - Computer Lab",
+            "formal_code": "CSE 3422",
+            "schedule": [
+              {
+                "day": "Wednesday",
+                "start_time": "08:30",
+                "end_time": "11:00"
+              }
+            ],
+            "credits": 1,
+            "total_seats": 35,
+            "seats_taken": 0,
+            "course_code": "1317-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 35,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "e4ab35c7-50d2-4c74-a70e-b1e1af78146e",
+            "section_name": "N",
+            "faculty_name": "TBA",
+            "faculty_code": "TBA",
+            "faculty_email": "N/A",
+            "room_details": "529 - Computer Lab",
+            "formal_code": "CSE 3422",
+            "schedule": [
+              {
+                "day": "Wednesday",
+                "start_time": "11:11",
+                "end_time": "13:40"
+              }
+            ],
+            "credits": 1,
+            "total_seats": 35,
+            "seats_taken": 0,
+            "course_code": "1317-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 35,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "ad3d71f7-5eb1-494c-bfa2-3e756892030a",
+            "section_name": "O",
+            "faculty_name": "Samin Sharaf Somik",
+            "faculty_code": "SSSk",
+            "faculty_email": "samin@cse.uiu.ac.bd",
+            "room_details": "529 - Computer Lab",
+            "formal_code": "CSE 3422",
+            "schedule": [
+              {
+                "day": "Wednesday",
+                "start_time": "14:00",
+                "end_time": "16:30"
+              }
+            ],
+            "credits": 1,
+            "total_seats": 35,
+            "seats_taken": 0,
+            "course_code": "1317-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 35,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          }
+        ]
+      },
+      {
+        "course_code": "1323-1-1",
+        "course_name": "Computer Networks",
+        "formal_code": "CSE 3711",
+        "credits": 3,
+        "have_mapped_sections": false,
+        "mapped_section_ids": [],
+        "sections": [
+          {
+            "section_id": "9c2a959b-1bfd-40c5-978b-f61fdc7d89a4",
+            "section_name": "A",
+            "faculty_name": "Al-Sakib Khan Pathan",
+            "faculty_code": "ASKP",
+            "faculty_email": "sakib@cse.uiu.ac.bd",
+            "room_details": "403",
+            "formal_code": "CSE 3711",
+            "schedule": [
+              {
+                "day": "Saturday",
+                "start_time": "08:30",
+                "end_time": "09:50"
+              },
+              {
+                "day": "Tuesday",
+                "start_time": "08:30",
+                "end_time": "09:50"
+              }
+            ],
+            "credits": 3,
+            "total_seats": 45,
+            "seats_taken": 0,
+            "course_code": "1323-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 45,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "2654af37-0efb-4880-9509-2a01638b9f5d",
+            "section_name": "B",
+            "faculty_name": "Muhammad Nomani Kabir",
+            "faculty_code": "MNK",
+            "faculty_email": "kabir@cse.uiu.ac.bd",
+            "room_details": "403",
+            "formal_code": "CSE 3711",
+            "schedule": [
+              {
+                "day": "Saturday",
+                "start_time": "09:51",
+                "end_time": "11:10"
+              },
+              {
+                "day": "Tuesday",
+                "start_time": "09:51",
+                "end_time": "11:10"
+              }
+            ],
+            "credits": 3,
+            "total_seats": 45,
+            "seats_taken": 0,
+            "course_code": "1323-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 45,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "9b8c80c0-ed61-450e-9684-3cc056efed81",
+            "section_name": "C",
+            "faculty_name": "Al-Sakib Khan Pathan",
+            "faculty_code": "ASKP",
+            "faculty_email": "sakib@cse.uiu.ac.bd",
+            "room_details": "407",
+            "formal_code": "CSE 3711",
+            "schedule": [
+              {
+                "day": "Saturday",
+                "start_time": "11:11",
+                "end_time": "12:30"
+              },
+              {
+                "day": "Tuesday",
+                "start_time": "11:11",
+                "end_time": "12:30"
+              }
+            ],
+            "credits": 3,
+            "total_seats": 45,
+            "seats_taken": 0,
+            "course_code": "1323-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 45,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "c85c2a12-030e-4e5c-abbb-f83f36e13e94",
+            "section_name": "D",
+            "faculty_name": "Abdullah Ibne Masud Mahi",
+            "faculty_code": "AIMM",
+            "faculty_email": "ibnemasud@cse.uiu.ac.bd",
+            "room_details": "403",
+            "formal_code": "CSE 3711",
+            "schedule": [
+              {
+                "day": "Saturday",
+                "start_time": "12:31",
+                "end_time": "13:50"
+              },
+              {
+                "day": "Tuesday",
+                "start_time": "12:31",
+                "end_time": "13:50"
+              }
+            ],
+            "credits": 3,
+            "total_seats": 45,
+            "seats_taken": 0,
+            "course_code": "1323-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 45,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "44b043c5-6a0d-4abd-b5c8-4d7266d6f27c",
+            "section_name": "E",
+            "faculty_name": "Abdullah Ibne Masud Mahi",
+            "faculty_code": "AIMM",
+            "faculty_email": "ibnemasud@cse.uiu.ac.bd",
+            "room_details": "401",
+            "formal_code": "CSE 3711",
+            "schedule": [
+              {
+                "day": "Saturday",
+                "start_time": "13:51",
+                "end_time": "15:10"
+              },
+              {
+                "day": "Tuesday",
+                "start_time": "13:51",
+                "end_time": "15:10"
+              }
+            ],
+            "credits": 3,
+            "total_seats": 45,
+            "seats_taken": 0,
+            "course_code": "1323-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 45,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "c3321ef9-8326-4de1-a780-679c818f9f22",
+            "section_name": "F",
+            "faculty_name": "Md. Muhyminul Haque",
+            "faculty_code": "MdMH",
+            "faculty_email": "muhyminul@cse.uiu.ac.bd",
+            "room_details": "402",
+            "formal_code": "CSE 3711",
+            "schedule": [
+              {
+                "day": "Sunday",
+                "start_time": "08:30",
+                "end_time": "09:50"
+              },
+              {
+                "day": "Wednesday",
+                "start_time": "08:30",
+                "end_time": "09:50"
+              }
+            ],
+            "credits": 3,
+            "total_seats": 45,
+            "seats_taken": 0,
+            "course_code": "1323-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 45,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "7548273e-4d34-451a-b855-9405ea0261ed",
+            "section_name": "G",
+            "faculty_name": "Abu Bakar Fahad",
+            "faculty_code": "ABF",
+            "faculty_email": "abfahad.cse@gmail.com",
+            "room_details": "325",
+            "formal_code": "CSE 3711",
+            "schedule": [
+              {
+                "day": "Sunday",
+                "start_time": "09:51",
+                "end_time": "11:10"
+              },
+              {
+                "day": "Wednesday",
+                "start_time": "09:51",
+                "end_time": "11:10"
+              }
+            ],
+            "credits": 3,
+            "total_seats": 45,
+            "seats_taken": 0,
+            "course_code": "1323-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 45,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "8aaaf6ae-398f-4aec-a154-54dc8b5d8875",
+            "section_name": "H",
+            "faculty_name": "A.K.M. Muzahidul Islam",
+            "faculty_code": "AKMMI",
+            "faculty_email": "muzahid@cse.uiu.ac.bd",
+            "room_details": "403",
+            "formal_code": "CSE 3711",
+            "schedule": [
+              {
+                "day": "Sunday",
+                "start_time": "11:11",
+                "end_time": "12:30"
+              },
+              {
+                "day": "Wednesday",
+                "start_time": "11:11",
+                "end_time": "12:30"
+              }
+            ],
+            "credits": 3,
+            "total_seats": 45,
+            "seats_taken": 0,
+            "course_code": "1323-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 45,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "14293cf8-196f-4042-b985-75bfe8653add",
+            "section_name": "I",
+            "faculty_name": "Abdullah Ibne Masud Mahi",
+            "faculty_code": "AIMM",
+            "faculty_email": "ibnemasud@cse.uiu.ac.bd",
+            "room_details": "401",
+            "formal_code": "CSE 3711",
+            "schedule": [
+              {
+                "day": "Sunday",
+                "start_time": "12:31",
+                "end_time": "13:50"
+              },
+              {
+                "day": "Wednesday",
+                "start_time": "12:31",
+                "end_time": "13:50"
+              }
+            ],
+            "credits": 3,
+            "total_seats": 45,
+            "seats_taken": 0,
+            "course_code": "1323-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 45,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "4540dd3c-8a02-46a4-af35-5a038d8dfa91",
+            "section_name": "J",
+            "faculty_name": "Mohammad Mamun Elahi",
+            "faculty_code": "ME",
+            "faculty_email": "mmelahi@cse.uiu.ac.bd",
+            "room_details": "403",
+            "formal_code": "CSE 3711",
+            "schedule": [
+              {
+                "day": "Sunday",
+                "start_time": "13:51",
+                "end_time": "15:10"
+              },
+              {
+                "day": "Wednesday",
+                "start_time": "13:51",
+                "end_time": "15:10"
+              }
+            ],
+            "credits": 3,
+            "total_seats": 45,
+            "seats_taken": 0,
+            "course_code": "1323-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 45,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "2c142672-bee9-4fbf-ad12-d0c1879bbadd",
+            "section_name": "K",
+            "faculty_name": "Mohammad Mamun Elahi",
+            "faculty_code": "ME",
+            "faculty_email": "mmelahi@cse.uiu.ac.bd",
+            "room_details": "408",
+            "formal_code": "CSE 3711",
+            "schedule": [
+              {
+                "day": "Sunday",
+                "start_time": "15:11",
+                "end_time": "16:30"
+              },
+              {
+                "day": "Wednesday",
+                "start_time": "15:11",
+                "end_time": "16:30"
+              }
+            ],
+            "credits": 3,
+            "total_seats": 45,
+            "seats_taken": 0,
+            "course_code": "1323-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 45,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          }
+        ]
+      },
+      {
+        "course_code": "1324-1-1",
+        "course_name": "Computer Networks Laboratory",
+        "formal_code": "CSE 3712",
+        "credits": 1,
+        "have_mapped_sections": false,
+        "mapped_section_ids": [],
+        "sections": [
+          {
+            "section_id": "199dc4e6-5a41-4fe9-bc14-e4887105fbd3",
+            "section_name": "A",
+            "faculty_name": "Abdullah Ibne Masud Mahi",
+            "faculty_code": "AIMM",
+            "faculty_email": "ibnemasud@cse.uiu.ac.bd",
+            "room_details": "523 - Computer Lab",
+            "formal_code": "CSE 3712",
+            "schedule": [
+              {
+                "day": "Sunday",
+                "start_time": "08:30",
+                "end_time": "11:00"
+              }
+            ],
+            "credits": 1,
+            "total_seats": 35,
+            "seats_taken": 0,
+            "course_code": "1324-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 35,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "383399ed-670c-449b-b289-cb706d4f16e4",
+            "section_name": "B",
+            "faculty_name": "Abu Bakar Fahad",
+            "faculty_code": "ABF",
+            "faculty_email": "abfahad.cse@gmail.com",
+            "room_details": "626 - Computer Lab",
+            "formal_code": "CSE 3712",
+            "schedule": [
+              {
+                "day": "Sunday",
+                "start_time": "11:11",
+                "end_time": "13:40"
+              }
+            ],
+            "credits": 1,
+            "total_seats": 35,
+            "seats_taken": 0,
+            "course_code": "1324-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 35,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "9a278699-c6a5-4e33-8b3f-c11f21cc1693",
+            "section_name": "C",
+            "faculty_name": "Md. Muhyminul Haque",
+            "faculty_code": "MdMH",
+            "faculty_email": "muhyminul@cse.uiu.ac.bd",
+            "room_details": "626 - Computer Lab",
+            "formal_code": "CSE 3712",
+            "schedule": [
+              {
+                "day": "Sunday",
+                "start_time": "14:00",
+                "end_time": "16:30"
+              }
+            ],
+            "credits": 1,
+            "total_seats": 35,
+            "seats_taken": 0,
+            "course_code": "1324-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 35,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "7760d101-6c98-4ef6-90ab-d3e4766d6e31",
+            "section_name": "D",
+            "faculty_name": "Tahia Hossain",
+            "faculty_code": "TaH",
+            "faculty_email": "tahiahossain23@gmail.com",
+            "room_details": "528 - Computer Lab",
+            "formal_code": "CSE 3712",
+            "schedule": [
+              {
+                "day": "Sunday",
+                "start_time": "08:30",
+                "end_time": "11:00"
+              }
+            ],
+            "credits": 1,
+            "total_seats": 35,
+            "seats_taken": 0,
+            "course_code": "1324-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 35,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "4fca6e1a-d4fc-4627-b8ac-6f39747bf98d",
+            "section_name": "E",
+            "faculty_name": "Abu Bakar Fahad",
+            "faculty_code": "ABF",
+            "faculty_email": "abfahad.cse@gmail.com",
+            "room_details": "626 - Computer Lab",
+            "formal_code": "CSE 3712",
+            "schedule": [
+              {
+                "day": "Tuesday",
+                "start_time": "08:30",
+                "end_time": "11:00"
+              }
+            ],
+            "credits": 1,
+            "total_seats": 35,
+            "seats_taken": 0,
+            "course_code": "1324-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 35,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "3e5a6285-c1ec-404a-b00a-77282ccd76b5",
+            "section_name": "F",
+            "faculty_name": "Tahia Hossain",
+            "faculty_code": "TaH",
+            "faculty_email": "tahiahossain23@gmail.com",
+            "room_details": "528 - Computer Lab",
+            "formal_code": "CSE 3712",
+            "schedule": [
+              {
+                "day": "Tuesday",
+                "start_time": "11:11",
+                "end_time": "13:40"
+              }
+            ],
+            "credits": 1,
+            "total_seats": 35,
+            "seats_taken": 0,
+            "course_code": "1324-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 35,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "7b25c64b-c847-413d-a2f9-23e019d773e0",
+            "section_name": "G",
+            "faculty_name": "Abu Bakar Fahad",
+            "faculty_code": "ABF",
+            "faculty_email": "abfahad.cse@gmail.com",
+            "room_details": "626 - Computer Lab",
+            "formal_code": "CSE 3712",
+            "schedule": [
+              {
+                "day": "Tuesday",
+                "start_time": "14:00",
+                "end_time": "16:30"
+              }
+            ],
+            "credits": 1,
+            "total_seats": 35,
+            "seats_taken": 0,
+            "course_code": "1324-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 35,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "b2b09540-0901-4222-b8fc-b3ddacc348ec",
+            "section_name": "H",
+            "faculty_name": "Md. Enamul Haque",
+            "faculty_code": "MEHq",
+            "faculty_email": "mhaque182055@bscse.uiu.ac.bd",
+            "room_details": "529 - Computer Lab",
+            "formal_code": "CSE 3712",
+            "schedule": [
+              {
+                "day": "Tuesday",
+                "start_time": "11:11",
+                "end_time": "13:40"
+              }
+            ],
+            "credits": 1,
+            "total_seats": 35,
+            "seats_taken": 0,
+            "course_code": "1324-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 35,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "e54417b2-4a22-405b-a79e-1af4f180b7ca",
+            "section_name": "I",
+            "faculty_name": "Abdullah Ibne Masud Mahi",
+            "faculty_code": "AIMM",
+            "faculty_email": "ibnemasud@cse.uiu.ac.bd",
+            "room_details": "529 - Computer Lab",
+            "formal_code": "CSE 3712",
+            "schedule": [
+              {
+                "day": "Wednesday",
+                "start_time": "08:30",
+                "end_time": "11:00"
+              }
+            ],
+            "credits": 1,
+            "total_seats": 35,
+            "seats_taken": 0,
+            "course_code": "1324-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 35,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "7bba215d-d063-4570-8776-4d43b592b873",
+            "section_name": "J",
+            "faculty_name": "Md. Muhyminul Haque",
+            "faculty_code": "MdMH",
+            "faculty_email": "muhyminul@cse.uiu.ac.bd",
+            "room_details": "532 - Computer Lab",
+            "formal_code": "CSE 3712",
+            "schedule": [
+              {
+                "day": "Wednesday",
+                "start_time": "11:11",
+                "end_time": "13:40"
+              }
+            ],
+            "credits": 1,
+            "total_seats": 35,
+            "seats_taken": 0,
+            "course_code": "1324-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 35,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "82e0f733-442c-4373-ba8e-679da7252c95",
+            "section_name": "K",
+            "faculty_name": "Abu Bakar Fahad",
+            "faculty_code": "ABF",
+            "faculty_email": "abfahad.cse@gmail.com",
+            "room_details": "626 - Computer Lab",
+            "formal_code": "CSE 3712",
+            "schedule": [
+              {
+                "day": "Wednesday",
+                "start_time": "14:00",
+                "end_time": "16:30"
+              }
+            ],
+            "credits": 1,
+            "total_seats": 35,
+            "seats_taken": 0,
+            "course_code": "1324-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 35,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "65559630-ce49-405b-a3f7-f56807c3766e",
+            "section_name": "L",
+            "faculty_name": "Tahia Hossain",
+            "faculty_code": "TaH",
+            "faculty_email": "tahiahossain23@gmail.com",
+            "room_details": "530 - Computer Lab",
+            "formal_code": "CSE 3712",
+            "schedule": [
+              {
+                "day": "Wednesday",
+                "start_time": "08:30",
+                "end_time": "11:00"
+              }
+            ],
+            "credits": 1,
+            "total_seats": 35,
+            "seats_taken": 0,
+            "course_code": "1324-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 35,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          }
+        ]
+      },
+      {
+        "course_code": "1325-1-1",
+        "course_name": "Artificial Intelligence",
+        "formal_code": "CSE 3811",
+        "credits": 3,
+        "have_mapped_sections": false,
+        "mapped_section_ids": [],
+        "sections": [
+          {
+            "section_id": "bedecc03-ee0b-47e8-88c8-bc9f3cffa20e",
+            "section_name": "A",
+            "faculty_name": "Nahid Ferdous Aurna",
+            "faculty_code": "NaFA",
+            "faculty_email": "aurna@cse.uiu.ac.bd",
+            "room_details": "404",
+            "formal_code": "CSE 3811",
+            "schedule": [
+              {
+                "day": "Saturday",
+                "start_time": "08:30",
+                "end_time": "09:50"
+              },
+              {
+                "day": "Tuesday",
+                "start_time": "08:30",
+                "end_time": "09:50"
+              }
+            ],
+            "credits": 3,
+            "total_seats": 45,
+            "seats_taken": 0,
+            "course_code": "1325-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 45,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "478423ba-ae2b-4b48-9d20-fcb8a7d8f234",
+            "section_name": "B",
+            "faculty_name": "Shihab Ahmed",
+            "faculty_code": "ShAhd",
+            "faculty_email": "shihab@cse.uiu.ac.bd",
+            "room_details": "404",
+            "formal_code": "CSE 3811",
+            "schedule": [
+              {
+                "day": "Saturday",
+                "start_time": "09:51",
+                "end_time": "11:10"
+              },
+              {
+                "day": "Tuesday",
+                "start_time": "09:51",
+                "end_time": "11:10"
+              }
+            ],
+            "credits": 3,
+            "total_seats": 45,
+            "seats_taken": 0,
+            "course_code": "1325-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 45,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "62fdcaa9-30fb-4c32-a5f6-796274134c21",
+            "section_name": "C",
+            "faculty_name": "Shekh. Md. Saifur Rahman",
+            "faculty_code": "SMSR",
+            "faculty_email": "saifur@cse.uiu.ac.bd",
+            "room_details": "407",
+            "formal_code": "CSE 3811",
+            "schedule": [
+              {
+                "day": "Saturday",
+                "start_time": "08:30",
+                "end_time": "09:50"
+              },
+              {
+                "day": "Tuesday",
+                "start_time": "08:30",
+                "end_time": "09:50"
+              }
+            ],
+            "credits": 3,
+            "total_seats": 45,
+            "seats_taken": 0,
+            "course_code": "1325-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 45,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "8665b4cd-e752-4004-bb27-1cc283b4894f",
+            "section_name": "D",
+            "faculty_name": "Nahid Ferdous Aurna",
+            "faculty_code": "NaFA",
+            "faculty_email": "aurna@cse.uiu.ac.bd",
+            "room_details": "425",
+            "formal_code": "CSE 3811",
+            "schedule": [
+              {
+                "day": "Saturday",
+                "start_time": "11:11",
+                "end_time": "12:30"
+              },
+              {
+                "day": "Tuesday",
+                "start_time": "11:11",
+                "end_time": "12:30"
+              }
+            ],
+            "credits": 3,
+            "total_seats": 45,
+            "seats_taken": 0,
+            "course_code": "1325-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 45,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "59730e19-9985-4d4f-b93e-a5b72410f613",
+            "section_name": "E",
+            "faculty_name": "A.H.M. Osama Haque",
+            "faculty_code": "AHMOH",
+            "faculty_email": "osama@cse.uiu.ac.bd",
+            "room_details": "402",
+            "formal_code": "CSE 3811",
+            "schedule": [
+              {
+                "day": "Saturday",
+                "start_time": "13:51",
+                "end_time": "15:10"
+              },
+              {
+                "day": "Tuesday",
+                "start_time": "13:51",
+                "end_time": "15:10"
+              }
+            ],
+            "credits": 3,
+            "total_seats": 45,
+            "seats_taken": 0,
+            "course_code": "1325-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 45,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "590861a0-8247-406b-b32e-cdd00c3ba40d",
+            "section_name": "F",
+            "faculty_name": "Nahid Ferdous Aurna",
+            "faculty_code": "NaFA",
+            "faculty_email": "aurna@cse.uiu.ac.bd",
+            "room_details": "409",
+            "formal_code": "CSE 3811",
+            "schedule": [
+              {
+                "day": "Sunday",
+                "start_time": "15:11",
+                "end_time": "16:30"
+              },
+              {
+                "day": "Wednesday",
+                "start_time": "15:11",
+                "end_time": "16:30"
+              }
+            ],
+            "credits": 3,
+            "total_seats": 45,
+            "seats_taken": 0,
+            "course_code": "1325-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 45,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "9a843039-df05-4672-aca1-1352f725f5e2",
+            "section_name": "G",
+            "faculty_name": "Fairoz Anika",
+            "faculty_code": "FzAn",
+            "faculty_email": "fairoz@cse.uiu.ac.bd",
+            "room_details": "402",
+            "formal_code": "CSE 3811",
+            "schedule": [
+              {
+                "day": "Sunday",
+                "start_time": "12:31",
+                "end_time": "13:50"
+              },
+              {
+                "day": "Wednesday",
+                "start_time": "12:31",
+                "end_time": "13:50"
+              }
+            ],
+            "credits": 3,
+            "total_seats": 45,
+            "seats_taken": 0,
+            "course_code": "1325-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 45,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "d8bd5460-ac52-441a-b0d8-c1b0e09c8fe6",
+            "section_name": "H",
+            "faculty_name": "Nahid Ferdous Aurna",
+            "faculty_code": "NaFA",
+            "faculty_email": "aurna@cse.uiu.ac.bd",
+            "room_details": "404",
+            "formal_code": "CSE 3811",
+            "schedule": [
+              {
+                "day": "Sunday",
+                "start_time": "13:51",
+                "end_time": "15:10"
+              },
+              {
+                "day": "Wednesday",
+                "start_time": "13:51",
+                "end_time": "15:10"
+              }
+            ],
+            "credits": 3,
+            "total_seats": 45,
+            "seats_taken": 0,
+            "course_code": "1325-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 45,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "a38a4767-4e2f-4c78-99a1-28e3668bd9f6",
+            "section_name": "I",
+            "faculty_name": "Shekh. Md. Saifur Rahman",
+            "faculty_code": "SMSR",
+            "faculty_email": "saifur@cse.uiu.ac.bd",
+            "room_details": "403",
+            "formal_code": "CSE 3811",
+            "schedule": [
+              {
+                "day": "Sunday",
+                "start_time": "08:30",
+                "end_time": "09:50"
+              },
+              {
+                "day": "Wednesday",
+                "start_time": "08:30",
+                "end_time": "09:50"
+              }
+            ],
+            "credits": 3,
+            "total_seats": 45,
+            "seats_taken": 0,
+            "course_code": "1325-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 45,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "85899625-f419-4194-85d4-c15441464335",
+            "section_name": "J",
+            "faculty_name": "Fairoz Anika",
+            "faculty_code": "FzAn",
+            "faculty_email": "fairoz@cse.uiu.ac.bd",
+            "room_details": "401",
+            "formal_code": "CSE 3811",
+            "schedule": [
+              {
+                "day": "Sunday",
+                "start_time": "09:51",
+                "end_time": "11:10"
+              },
+              {
+                "day": "Wednesday",
+                "start_time": "09:51",
+                "end_time": "11:10"
+              }
+            ],
+            "credits": 3,
+            "total_seats": 45,
+            "seats_taken": 0,
+            "course_code": "1325-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 45,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          }
+        ]
+      },
+      {
+        "course_code": "1326-1-1",
+        "course_name": "Artificial Intelligence Laboratory",
+        "formal_code": "CSE 3812",
+        "credits": 1,
+        "have_mapped_sections": false,
+        "mapped_section_ids": [],
+        "sections": [
+          {
+            "section_id": "d64b848c-6c64-41a8-9647-eb59d4433d15",
+            "section_name": "A",
+            "faculty_name": "TBA",
+            "faculty_code": "TBA",
+            "faculty_email": "N/A",
+            "room_details": "727 - Computer Lab",
+            "formal_code": "CSE 3812",
+            "schedule": [
+              {
+                "day": "Saturday",
+                "start_time": "08:30",
+                "end_time": "11:00"
+              }
+            ],
+            "credits": 1,
+            "total_seats": 35,
+            "seats_taken": 0,
+            "course_code": "1326-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 35,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "09004bf0-8e97-4dfa-a07d-0c7f8d24fcd0",
+            "section_name": "B",
+            "faculty_name": "Sahid Hossain Mustakim",
+            "faculty_code": "SHMm",
+            "faculty_email": "smustakim201274@bscse.uiu.ac.bd",
+            "room_details": "827 - Computer Lab",
+            "formal_code": "CSE 3812",
+            "schedule": [
+              {
+                "day": "Saturday",
+                "start_time": "11:11",
+                "end_time": "13:40"
+              }
+            ],
+            "credits": 1,
+            "total_seats": 35,
+            "seats_taken": 0,
+            "course_code": "1326-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 35,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "f45573a0-ca4f-4daf-942b-430a51f83267",
+            "section_name": "C",
+            "faculty_name": "Md. Tanvir Raihan",
+            "faculty_code": "MTR",
+            "faculty_email": "tanvir@cse.uiu.ac.bd",
+            "room_details": "727 - Computer Lab",
+            "formal_code": "CSE 3812",
+            "schedule": [
+              {
+                "day": "Saturday",
+                "start_time": "14:00",
+                "end_time": "16:30"
+              }
+            ],
+            "credits": 1,
+            "total_seats": 35,
+            "seats_taken": 0,
+            "course_code": "1326-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 35,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "135e10e3-7ff1-424c-b584-385f93db976a",
+            "section_name": "D",
+            "faculty_name": "Siana Rizwan",
+            "faculty_code": "SnRn",
+            "faculty_email": "siana@cse.uiu.ac.bd",
+            "room_details": "529 - Computer Lab",
+            "formal_code": "CSE 3812",
+            "schedule": [
+              {
+                "day": "Sunday",
+                "start_time": "08:30",
+                "end_time": "11:00"
+              }
+            ],
+            "credits": 1,
+            "total_seats": 35,
+            "seats_taken": 0,
+            "course_code": "1326-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 35,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "8e4cfec6-cc2a-4004-bbdb-c3d4c141d5ca",
+            "section_name": "E",
+            "faculty_name": "A.H.M. Osama Haque",
+            "faculty_code": "AHMOH",
+            "faculty_email": "osama@cse.uiu.ac.bd",
+            "room_details": "727 - Computer Lab",
+            "formal_code": "CSE 3812",
+            "schedule": [
+              {
+                "day": "Sunday",
+                "start_time": "11:11",
+                "end_time": "13:40"
+              }
+            ],
+            "credits": 1,
+            "total_seats": 35,
+            "seats_taken": 0,
+            "course_code": "1326-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 35,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "2125cc64-1398-4c9f-a3a6-91ab4976b058",
+            "section_name": "F",
+            "faculty_name": "Khandokar Md. Rahat Hossain",
+            "faculty_code": "KMRH",
+            "faculty_email": "rahat@cse.uiu.ac.bd",
+            "room_details": "727 - Computer Lab",
+            "formal_code": "CSE 3812",
+            "schedule": [
+              {
+                "day": "Sunday",
+                "start_time": "14:00",
+                "end_time": "16:30"
+              }
+            ],
+            "credits": 1,
+            "total_seats": 35,
+            "seats_taken": 0,
+            "course_code": "1326-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 35,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "e7401858-3d3b-4fea-82cd-69e5e480a552",
+            "section_name": "G",
+            "faculty_name": "Fairoz Anika",
+            "faculty_code": "FzAn",
+            "faculty_email": "fairoz@cse.uiu.ac.bd",
+            "room_details": "727 - Computer Lab",
+            "formal_code": "CSE 3812",
+            "schedule": [
+              {
+                "day": "Tuesday",
+                "start_time": "08:30",
+                "end_time": "11:00"
+              }
+            ],
+            "credits": 1,
+            "total_seats": 35,
+            "seats_taken": 0,
+            "course_code": "1326-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 35,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "6660682e-1312-40c1-81bf-79ceb3be996c",
+            "section_name": "H",
+            "faculty_name": "TBA",
+            "faculty_code": "TBA",
+            "faculty_email": "N/A",
+            "room_details": "530 - Computer Lab",
+            "formal_code": "CSE 3812",
+            "schedule": [
+              {
+                "day": "Tuesday",
+                "start_time": "11:11",
+                "end_time": "13:40"
+              }
+            ],
+            "credits": 1,
+            "total_seats": 35,
+            "seats_taken": 0,
+            "course_code": "1326-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 35,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "e16a7597-ef54-4171-9c01-2fba0352c7b3",
+            "section_name": "I",
+            "faculty_name": "Md. Tanvir Raihan",
+            "faculty_code": "MTR",
+            "faculty_email": "tanvir@cse.uiu.ac.bd",
+            "room_details": "827 - Computer Lab",
+            "formal_code": "CSE 3812",
+            "schedule": [
+              {
+                "day": "Tuesday",
+                "start_time": "14:00",
+                "end_time": "16:30"
+              }
+            ],
+            "credits": 1,
+            "total_seats": 35,
+            "seats_taken": 0,
+            "course_code": "1326-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 35,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "2abd232b-6c96-4098-bafb-6fc36f90a1ba",
+            "section_name": "J",
+            "faculty_name": "Raiyan Janik Monir",
+            "faculty_code": "RJM",
+            "faculty_email": "raiyan.janik.monir@g.bracu.ac.bd",
+            "room_details": "626 - Computer Lab",
+            "formal_code": "CSE 3812",
+            "schedule": [
+              {
+                "day": "Wednesday",
+                "start_time": "08:30",
+                "end_time": "11:00"
+              }
+            ],
+            "credits": 1,
+            "total_seats": 35,
+            "seats_taken": 0,
+            "course_code": "1326-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 35,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "51c54f40-e483-41cc-8819-8f6d4027bcdf",
+            "section_name": "K",
+            "faculty_name": "Khandokar Md. Rahat Hossain",
+            "faculty_code": "KMRH",
+            "faculty_email": "rahat@cse.uiu.ac.bd",
+            "room_details": "626 - Computer Lab",
+            "formal_code": "CSE 3812",
+            "schedule": [
+              {
+                "day": "Wednesday",
+                "start_time": "11:11",
+                "end_time": "13:40"
+              }
+            ],
+            "credits": 1,
+            "total_seats": 35,
+            "seats_taken": 0,
+            "course_code": "1326-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 35,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "abee53d4-a729-4cce-8826-531a548133a2",
+            "section_name": "L",
+            "faculty_name": "Raiyan Janik Monir",
+            "faculty_code": "RJM",
+            "faculty_email": "raiyan.janik.monir@g.bracu.ac.bd",
+            "room_details": "727 - Computer Lab",
+            "formal_code": "CSE 3812",
+            "schedule": [
+              {
+                "day": "Wednesday",
+                "start_time": "14:00",
+                "end_time": "16:30"
+              }
+            ],
+            "credits": 1,
+            "total_seats": 35,
+            "seats_taken": 0,
+            "course_code": "1326-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 35,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          },
+          {
+            "section_id": "4bb313c8-c705-4810-881b-a344b5af994e",
+            "section_name": "M",
+            "faculty_name": "Jerin Hasan Priya",
+            "faculty_code": "JHP",
+            "faculty_email": "priyajerin9@gmail.com",
+            "room_details": "530 - Computer Lab",
+            "formal_code": "CSE 3812",
+            "schedule": [
+              {
+                "day": "Sunday",
+                "start_time": "08:30",
+                "end_time": "11:00"
+              }
+            ],
+            "credits": 1,
+            "total_seats": 35,
+            "seats_taken": 0,
+            "course_code": "1326-1-1",
+            "department_code": "011",
+            "seat_info": {
+              "011": {
+                "totalSeats": 35,
+                "seatsTaken": 0
+              }
+            },
+            "stop_option_to_change_section": false,
+            "isMapped": false
+          }
+        ]
+      }
+    ]
+  }
+}
