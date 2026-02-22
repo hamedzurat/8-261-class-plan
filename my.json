@@ -11,7 +11,7 @@
         "mapped_section_ids": [],
         "sections": [
           {
-            "section_id": "f6b33ba5-6d6b-4359-b8ff-68fa41bfa058",
+            "section_id": "7d5999ab-87f8-40d6-a0d3-23bee1c9fba5",
             "section_name": "A",
             "faculty_name": "Syed Abu Ammar Muhammad Zarif",
             "faculty_code": "SAMZ",
@@ -45,7 +45,7 @@
             "isMapped": false
           },
           {
-            "section_id": "0749248c-4284-4e11-ab32-4c53f3c99943",
+            "section_id": "a4c2dda6-b805-46d2-8ccd-12ead51ffb6f",
             "section_name": "B",
             "faculty_name": "Samin Sharaf Somik",
             "faculty_code": "SSSk",
@@ -79,7 +79,7 @@
             "isMapped": false
           },
           {
-            "section_id": "57ad9533-30e3-4317-b50b-d84ed4b16665",
+            "section_id": "2a616696-343a-437d-aceb-913e7b5b8181",
             "section_name": "C",
             "faculty_name": "Syed Abu Ammar Muhammad Zarif",
             "faculty_code": "SAMZ",
@@ -113,7 +113,7 @@
             "isMapped": false
           },
           {
-            "section_id": "267fd362-afa9-4ecb-8c16-619fbe6766c5",
+            "section_id": "f50fe857-00d7-4713-aed6-45b18e6d7fc6",
             "section_name": "D",
             "faculty_name": "Samin Sharaf Somik",
             "faculty_code": "SSSk",
@@ -147,7 +147,7 @@
             "isMapped": false
           },
           {
-            "section_id": "86deb6b1-3c81-444c-b6e4-c83bd858080f",
+            "section_id": "41c9717a-d01e-47dc-a175-db6148cf5d8c",
             "section_name": "E",
             "faculty_name": "Samin Sharaf Somik",
             "faculty_code": "SSSk",
@@ -181,7 +181,7 @@
             "isMapped": false
           },
           {
-            "section_id": "a9c8d499-1599-4e70-a552-25d95629247a",
+            "section_id": "753a9599-b6f3-41ec-87f6-bb6c0a7530a9",
             "section_name": "F",
             "faculty_name": "Sajid Ahmed Chowdhury",
             "faculty_code": "SdACh",
@@ -215,7 +215,7 @@
             "isMapped": false
           },
           {
-            "section_id": "1c7994ef-c76e-4b50-9f7d-62b0f915fec3",
+            "section_id": "e6fcdca3-62d2-4062-bd00-2da28363dc36",
             "section_name": "G",
             "faculty_name": "Md. Benzir Ahmed",
             "faculty_code": "MBAd",
@@ -249,7 +249,7 @@
             "isMapped": false
           },
           {
-            "section_id": "b0de211b-8c69-49cc-86c7-f37069abb41e",
+            "section_id": "d8b7314a-fe0f-4e49-aa07-5923be74eae2",
             "section_name": "H",
             "faculty_name": "TBA",
             "faculty_code": "TBA",
@@ -283,7 +283,7 @@
             "isMapped": false
           },
           {
-            "section_id": "5961f7c1-e947-4378-a5ba-fa78e3b8d4ae",
+            "section_id": "5a2b248b-3c92-40d3-822a-94cd81a532fd",
             "section_name": "I",
             "faculty_name": "Md. Benzir Ahmed",
             "faculty_code": "MBAd",
@@ -317,7 +317,7 @@
             "isMapped": false
           },
           {
-            "section_id": "a060dafd-33ec-45f3-98e6-49a3da0e26b0",
+            "section_id": "da1005c7-70c0-43da-a0f9-0f874d45f1f5",
             "section_name": "J",
             "faculty_name": "S M Jishanul Islam",
             "faculty_code": "SMJI",
@@ -351,7 +351,7 @@
             "isMapped": false
           },
           {
-            "section_id": "f6a96a2d-fdb0-4d55-8150-4ead48e03ffd",
+            "section_id": "a3b780e5-05d5-4cd2-bd82-e0f1482b4784",
             "section_name": "K",
             "faculty_name": "Md. Muhaiminul Islam Nafi",
             "faculty_code": "MMIN",
@@ -395,7 +395,7 @@
         "mapped_section_ids": [],
         "sections": [
           {
-            "section_id": "275c3c14-f13e-4afd-bcd2-5432f77555b0",
+            "section_id": "197dbca0-0e74-4ae4-83da-5b70c2796f04",
             "section_name": "A",
             "faculty_name": "TBA",
             "faculty_code": "TBA",
@@ -424,7 +424,7 @@
             "isMapped": false
           },
           {
-            "section_id": "06db0123-59c0-45c2-b9ee-bf7f708dc606",
+            "section_id": "d6222b9b-e9a3-4dd5-8804-36b83c04b313",
             "section_name": "B",
             "faculty_name": "Saifullah Mahbub",
             "faculty_code": "SaMb",
@@ -453,7 +453,7 @@
             "isMapped": false
           },
           {
-            "section_id": "8eca8d94-dc43-4380-afff-8b72b68ac385",
+            "section_id": "78d0a806-9769-4f32-8e32-f1d58332218b",
             "section_name": "C",
             "faculty_name": "Md. Muhaiminul Islam Nafi",
             "faculty_code": "MMIN",
@@ -482,7 +482,7 @@
             "isMapped": false
           },
           {
-            "section_id": "b0739b6f-3fce-40f9-97dc-d72d9eb2ad3a",
+            "section_id": "3846f9b9-8804-4423-be5d-ad33ced9383a",
             "section_name": "D",
             "faculty_name": "Sajid Ahmed Chowdhury",
             "faculty_code": "SdACh",
@@ -511,7 +511,7 @@
             "isMapped": false
           },
           {
-            "section_id": "19f67348-7770-4636-a7c7-7008c015d787",
+            "section_id": "6266be2a-8818-4f86-bbd7-aa2f116f95c3",
             "section_name": "E",
             "faculty_name": "Syed Abu Ammar Muhammad Zarif",
             "faculty_code": "SAMZ",
@@ -540,7 +540,7 @@
             "isMapped": false
           },
           {
-            "section_id": "b793c90e-bfff-4660-b1f9-0cd436a50648",
+            "section_id": "04b6920e-4084-4e18-be8a-7c08d2cb58f4",
             "section_name": "F",
             "faculty_name": "Sajjad Ahmed",
             "faculty_code": "SdAh",
@@ -569,7 +569,7 @@
             "isMapped": false
           },
           {
-            "section_id": "631fae12-2780-435b-b463-7f62642a0bbe",
+            "section_id": "95040cb8-d2b6-4fca-be0c-37c0ddb382a8",
             "section_name": "G",
             "faculty_name": "Samin Sharaf Somik",
             "faculty_code": "SSSk",
@@ -598,7 +598,7 @@
             "isMapped": false
           },
           {
-            "section_id": "5b4d5fe4-1643-427f-b4d2-4a380147e0a6",
+            "section_id": "e76e7a00-6ddf-47f6-a1db-1ec49f4f5ebf",
             "section_name": "H",
             "faculty_name": "Abrar Mahmud",
             "faculty_code": "ArMd",
@@ -627,7 +627,7 @@
             "isMapped": false
           },
           {
-            "section_id": "2252c169-e8e3-44d5-b0db-b0e169f86182",
+            "section_id": "dce31080-0b40-4a23-b32d-880dacea655d",
             "section_name": "I",
             "faculty_name": "Sabber Ahmed",
             "faculty_code": "SrAd",
@@ -656,7 +656,7 @@
             "isMapped": false
           },
           {
-            "section_id": "133edfde-010f-45c7-b31a-a54af7e6a398",
+            "section_id": "acaea2cb-5c5f-4527-ba43-61c6d4454a6c",
             "section_name": "J",
             "faculty_name": "Sajid Ahmed Chowdhury",
             "faculty_code": "SdACh",
@@ -685,7 +685,7 @@
             "isMapped": false
           },
           {
-            "section_id": "8b806b48-3bbf-4bf9-8501-17a6f42ce0b0",
+            "section_id": "224f1cbd-d282-44fa-8636-83f8b3821e26",
             "section_name": "K",
             "faculty_name": "TBA",
             "faculty_code": "TBA",
@@ -714,7 +714,7 @@
             "isMapped": false
           },
           {
-            "section_id": "a0e3f662-c7e8-4bfc-8eb4-1b11a1343ef3",
+            "section_id": "0bdba404-3eb1-4c24-b184-1a0eb4723fae",
             "section_name": "M",
             "faculty_name": "Abrar Mahmud",
             "faculty_code": "ArMd",
@@ -743,7 +743,7 @@
             "isMapped": false
           },
           {
-            "section_id": "e4ab35c7-50d2-4c74-a70e-b1e1af78146e",
+            "section_id": "b6099c67-cd06-44ac-9b57-35b8daddf92f",
             "section_name": "N",
             "faculty_name": "TBA",
             "faculty_code": "TBA",
@@ -772,7 +772,7 @@
             "isMapped": false
           },
           {
-            "section_id": "ad3d71f7-5eb1-494c-bfa2-3e756892030a",
+            "section_id": "7daa4ac6-fdf9-4071-94cf-b3774e2a0f5d",
             "section_name": "O",
             "faculty_name": "Samin Sharaf Somik",
             "faculty_code": "SSSk",
@@ -811,7 +811,7 @@
         "mapped_section_ids": [],
         "sections": [
           {
-            "section_id": "9c2a959b-1bfd-40c5-978b-f61fdc7d89a4",
+            "section_id": "5ed28fdd-62eb-4fdf-ae16-ce01274d8d3f",
             "section_name": "A",
             "faculty_name": "Al-Sakib Khan Pathan",
             "faculty_code": "ASKP",
@@ -845,7 +845,7 @@
             "isMapped": false
           },
           {
-            "section_id": "2654af37-0efb-4880-9509-2a01638b9f5d",
+            "section_id": "022e8d3d-ff7c-4d3f-97da-a62d3bbb0d6a",
             "section_name": "B",
             "faculty_name": "Muhammad Nomani Kabir",
             "faculty_code": "MNK",
@@ -879,7 +879,7 @@
             "isMapped": false
           },
           {
-            "section_id": "9b8c80c0-ed61-450e-9684-3cc056efed81",
+            "section_id": "3e2417fd-9abb-42e7-b14b-9dc21cc6e183",
             "section_name": "C",
             "faculty_name": "Al-Sakib Khan Pathan",
             "faculty_code": "ASKP",
@@ -913,7 +913,7 @@
             "isMapped": false
           },
           {
-            "section_id": "c85c2a12-030e-4e5c-abbb-f83f36e13e94",
+            "section_id": "47095a02-ac01-462d-b0c8-35bbf4b5abee",
             "section_name": "D",
             "faculty_name": "Abdullah Ibne Masud Mahi",
             "faculty_code": "AIMM",
@@ -947,7 +947,7 @@
             "isMapped": false
           },
           {
-            "section_id": "44b043c5-6a0d-4abd-b5c8-4d7266d6f27c",
+            "section_id": "8960339b-95dd-4cac-af38-62cf3c234ec7",
             "section_name": "E",
             "faculty_name": "Abdullah Ibne Masud Mahi",
             "faculty_code": "AIMM",
@@ -981,7 +981,7 @@
             "isMapped": false
           },
           {
-            "section_id": "c3321ef9-8326-4de1-a780-679c818f9f22",
+            "section_id": "3a4f169a-ce01-44d1-807b-33b850cdcdc2",
             "section_name": "F",
             "faculty_name": "Md. Muhyminul Haque",
             "faculty_code": "MdMH",
@@ -1015,7 +1015,7 @@
             "isMapped": false
           },
           {
-            "section_id": "7548273e-4d34-451a-b855-9405ea0261ed",
+            "section_id": "51bcfa0a-7d99-4876-96b5-58150fd45233",
             "section_name": "G",
             "faculty_name": "Abu Bakar Fahad",
             "faculty_code": "ABF",
@@ -1049,7 +1049,7 @@
             "isMapped": false
           },
           {
-            "section_id": "8aaaf6ae-398f-4aec-a154-54dc8b5d8875",
+            "section_id": "a40af5a0-db1b-4b65-990b-53022fc6e448",
             "section_name": "H",
             "faculty_name": "A.K.M. Muzahidul Islam",
             "faculty_code": "AKMMI",
@@ -1083,7 +1083,7 @@
             "isMapped": false
           },
           {
-            "section_id": "14293cf8-196f-4042-b985-75bfe8653add",
+            "section_id": "d58c5579-73af-41bc-9bb9-1a43f21f9bb2",
             "section_name": "I",
             "faculty_name": "Abdullah Ibne Masud Mahi",
             "faculty_code": "AIMM",
@@ -1117,7 +1117,7 @@
             "isMapped": false
           },
           {
-            "section_id": "4540dd3c-8a02-46a4-af35-5a038d8dfa91",
+            "section_id": "debfd827-e247-43e2-887f-3e8cb965f0da",
             "section_name": "J",
             "faculty_name": "Mohammad Mamun Elahi",
             "faculty_code": "ME",
@@ -1151,7 +1151,7 @@
             "isMapped": false
           },
           {
-            "section_id": "2c142672-bee9-4fbf-ad12-d0c1879bbadd",
+            "section_id": "ea62deea-9e70-450e-bd83-d85fc794e0d7",
             "section_name": "K",
             "faculty_name": "Mohammad Mamun Elahi",
             "faculty_code": "ME",
@@ -1195,7 +1195,7 @@
         "mapped_section_ids": [],
         "sections": [
           {
-            "section_id": "199dc4e6-5a41-4fe9-bc14-e4887105fbd3",
+            "section_id": "3ebe09b4-2d88-4517-877d-5ec11a080467",
             "section_name": "A",
             "faculty_name": "Abdullah Ibne Masud Mahi",
             "faculty_code": "AIMM",
@@ -1224,7 +1224,7 @@
             "isMapped": false
           },
           {
-            "section_id": "383399ed-670c-449b-b289-cb706d4f16e4",
+            "section_id": "ca27f729-a855-4dd3-85d7-715c1ac5fa54",
             "section_name": "B",
             "faculty_name": "Abu Bakar Fahad",
             "faculty_code": "ABF",
@@ -1253,7 +1253,7 @@
             "isMapped": false
           },
           {
-            "section_id": "9a278699-c6a5-4e33-8b3f-c11f21cc1693",
+            "section_id": "22a33589-9a20-46f4-b49c-5da89ae4ca4e",
             "section_name": "C",
             "faculty_name": "Md. Muhyminul Haque",
             "faculty_code": "MdMH",
@@ -1282,7 +1282,7 @@
             "isMapped": false
           },
           {
-            "section_id": "7760d101-6c98-4ef6-90ab-d3e4766d6e31",
+            "section_id": "5b6ed91f-b214-4f96-9cd4-e7735ba62f00",
             "section_name": "D",
             "faculty_name": "Tahia Hossain",
             "faculty_code": "TaH",
@@ -1311,7 +1311,7 @@
             "isMapped": false
           },
           {
-            "section_id": "4fca6e1a-d4fc-4627-b8ac-6f39747bf98d",
+            "section_id": "de7bdbe3-ced3-4dee-886c-11030c4de0a7",
             "section_name": "E",
             "faculty_name": "Abu Bakar Fahad",
             "faculty_code": "ABF",
@@ -1340,7 +1340,7 @@
             "isMapped": false
           },
           {
-            "section_id": "3e5a6285-c1ec-404a-b00a-77282ccd76b5",
+            "section_id": "b1a5fa46-05ba-46ff-ba62-258a6eeb681b",
             "section_name": "F",
             "faculty_name": "Tahia Hossain",
             "faculty_code": "TaH",
@@ -1369,7 +1369,7 @@
             "isMapped": false
           },
           {
-            "section_id": "7b25c64b-c847-413d-a2f9-23e019d773e0",
+            "section_id": "9f242f98-2606-4c33-a531-ed1076630ee4",
             "section_name": "G",
             "faculty_name": "Abu Bakar Fahad",
             "faculty_code": "ABF",
@@ -1398,7 +1398,7 @@
             "isMapped": false
           },
           {
-            "section_id": "b2b09540-0901-4222-b8fc-b3ddacc348ec",
+            "section_id": "7a9efc03-d6d3-428b-8208-2f2b56f27e19",
             "section_name": "H",
             "faculty_name": "Md. Enamul Haque",
             "faculty_code": "MEHq",
@@ -1427,7 +1427,7 @@
             "isMapped": false
           },
           {
-            "section_id": "e54417b2-4a22-405b-a79e-1af4f180b7ca",
+            "section_id": "7ec9ad01-fa5a-4e72-9a2b-ec407ee47533",
             "section_name": "I",
             "faculty_name": "Abdullah Ibne Masud Mahi",
             "faculty_code": "AIMM",
@@ -1456,7 +1456,7 @@
             "isMapped": false
           },
           {
-            "section_id": "7bba215d-d063-4570-8776-4d43b592b873",
+            "section_id": "19aed13d-edbd-4050-bc06-ae22759e371a",
             "section_name": "J",
             "faculty_name": "Md. Muhyminul Haque",
             "faculty_code": "MdMH",
@@ -1485,7 +1485,7 @@
             "isMapped": false
           },
           {
-            "section_id": "82e0f733-442c-4373-ba8e-679da7252c95",
+            "section_id": "2e84882e-26d4-4f44-810a-d4adb94cec7d",
             "section_name": "K",
             "faculty_name": "Abu Bakar Fahad",
             "faculty_code": "ABF",
@@ -1514,7 +1514,7 @@
             "isMapped": false
           },
           {
-            "section_id": "65559630-ce49-405b-a3f7-f56807c3766e",
+            "section_id": "83361e09-ef1b-4b6d-8352-0fa06197ace9",
             "section_name": "L",
             "faculty_name": "Tahia Hossain",
             "faculty_code": "TaH",
@@ -1553,7 +1553,7 @@
         "mapped_section_ids": [],
         "sections": [
           {
-            "section_id": "bedecc03-ee0b-47e8-88c8-bc9f3cffa20e",
+            "section_id": "cbbc544b-7dec-43c7-a74b-24d4f4f7d893",
             "section_name": "A",
             "faculty_name": "Nahid Ferdous Aurna",
             "faculty_code": "NaFA",
@@ -1587,7 +1587,7 @@
             "isMapped": false
           },
           {
-            "section_id": "478423ba-ae2b-4b48-9d20-fcb8a7d8f234",
+            "section_id": "6e10492c-4d3c-4bdd-bfbe-da2ce4c6895c",
             "section_name": "B",
             "faculty_name": "Shihab Ahmed",
             "faculty_code": "ShAhd",
@@ -1621,7 +1621,7 @@
             "isMapped": false
           },
           {
-            "section_id": "62fdcaa9-30fb-4c32-a5f6-796274134c21",
+            "section_id": "4a77f58f-ebcb-4d45-ae29-9102855c7cff",
             "section_name": "C",
             "faculty_name": "Shekh. Md. Saifur Rahman",
             "faculty_code": "SMSR",
@@ -1655,7 +1655,7 @@
             "isMapped": false
           },
           {
-            "section_id": "8665b4cd-e752-4004-bb27-1cc283b4894f",
+            "section_id": "02593662-bf0b-4aee-8d66-9a537f158ac8",
             "section_name": "D",
             "faculty_name": "Nahid Ferdous Aurna",
             "faculty_code": "NaFA",
@@ -1689,7 +1689,7 @@
             "isMapped": false
           },
           {
-            "section_id": "59730e19-9985-4d4f-b93e-a5b72410f613",
+            "section_id": "ce5d4c5c-050c-4ca9-80bf-084f46d6e7a6",
             "section_name": "E",
             "faculty_name": "A.H.M. Osama Haque",
             "faculty_code": "AHMOH",
@@ -1723,7 +1723,7 @@
             "isMapped": false
           },
           {
-            "section_id": "590861a0-8247-406b-b32e-cdd00c3ba40d",
+            "section_id": "39629768-044b-40cb-a7a9-b4400adfb568",
             "section_name": "F",
             "faculty_name": "Nahid Ferdous Aurna",
             "faculty_code": "NaFA",
@@ -1757,7 +1757,7 @@
             "isMapped": false
           },
           {
-            "section_id": "9a843039-df05-4672-aca1-1352f725f5e2",
+            "section_id": "36bf3218-85e9-40b6-a95a-e8b496bff3f0",
             "section_name": "G",
             "faculty_name": "Fairoz Anika",
             "faculty_code": "FzAn",
@@ -1791,7 +1791,7 @@
             "isMapped": false
           },
           {
-            "section_id": "d8bd5460-ac52-441a-b0d8-c1b0e09c8fe6",
+            "section_id": "4a9b8f5a-a9a0-41ff-a5f2-6231a579a065",
             "section_name": "H",
             "faculty_name": "Nahid Ferdous Aurna",
             "faculty_code": "NaFA",
@@ -1825,7 +1825,7 @@
             "isMapped": false
           },
           {
-            "section_id": "a38a4767-4e2f-4c78-99a1-28e3668bd9f6",
+            "section_id": "5bebd113-41e0-427b-8b1c-7b8e0249e873",
             "section_name": "I",
             "faculty_name": "Shekh. Md. Saifur Rahman",
             "faculty_code": "SMSR",
@@ -1859,7 +1859,7 @@
             "isMapped": false
           },
           {
-            "section_id": "85899625-f419-4194-85d4-c15441464335",
+            "section_id": "0ee375bc-b6eb-4875-9011-02a01ca599f2",
             "section_name": "J",
             "faculty_name": "Fairoz Anika",
             "faculty_code": "FzAn",
@@ -1903,7 +1903,7 @@
         "mapped_section_ids": [],
         "sections": [
           {
-            "section_id": "d64b848c-6c64-41a8-9647-eb59d4433d15",
+            "section_id": "6b6cc343-3dbb-4ee7-b959-057007dd98c0",
             "section_name": "A",
             "faculty_name": "TBA",
             "faculty_code": "TBA",
@@ -1932,7 +1932,7 @@
             "isMapped": false
           },
           {
-            "section_id": "09004bf0-8e97-4dfa-a07d-0c7f8d24fcd0",
+            "section_id": "d1ea0ae5-1dac-4ac9-9c29-90a082287b6d",
             "section_name": "B",
             "faculty_name": "Sahid Hossain Mustakim",
             "faculty_code": "SHMm",
@@ -1961,7 +1961,7 @@
             "isMapped": false
           },
           {
-            "section_id": "f45573a0-ca4f-4daf-942b-430a51f83267",
+            "section_id": "57dfb864-d79e-4567-a5c8-72a623486745",
             "section_name": "C",
             "faculty_name": "Md. Tanvir Raihan",
             "faculty_code": "MTR",
@@ -1990,7 +1990,7 @@
             "isMapped": false
           },
           {
-            "section_id": "135e10e3-7ff1-424c-b584-385f93db976a",
+            "section_id": "9e5d0166-bae3-4688-9470-fd616a6429f4",
             "section_name": "D",
             "faculty_name": "Siana Rizwan",
             "faculty_code": "SnRn",
@@ -2019,7 +2019,7 @@
             "isMapped": false
           },
           {
-            "section_id": "8e4cfec6-cc2a-4004-bbdb-c3d4c141d5ca",
+            "section_id": "dedc6419-c3ff-4675-be67-500ff7bac528",
             "section_name": "E",
             "faculty_name": "A.H.M. Osama Haque",
             "faculty_code": "AHMOH",
@@ -2048,7 +2048,7 @@
             "isMapped": false
           },
           {
-            "section_id": "2125cc64-1398-4c9f-a3a6-91ab4976b058",
+            "section_id": "d024238d-c5ff-4e09-a5dc-033e2415852f",
             "section_name": "F",
             "faculty_name": "Khandokar Md. Rahat Hossain",
             "faculty_code": "KMRH",
@@ -2077,7 +2077,7 @@
             "isMapped": false
           },
           {
-            "section_id": "e7401858-3d3b-4fea-82cd-69e5e480a552",
+            "section_id": "885481eb-9848-49fb-91c8-cfa51403aee7",
             "section_name": "G",
             "faculty_name": "Fairoz Anika",
             "faculty_code": "FzAn",
@@ -2106,7 +2106,7 @@
             "isMapped": false
           },
           {
-            "section_id": "6660682e-1312-40c1-81bf-79ceb3be996c",
+            "section_id": "925d4b41-3b85-4dec-b072-03cfef746b07",
             "section_name": "H",
             "faculty_name": "TBA",
             "faculty_code": "TBA",
@@ -2135,7 +2135,7 @@
             "isMapped": false
           },
           {
-            "section_id": "e16a7597-ef54-4171-9c01-2fba0352c7b3",
+            "section_id": "38abaf01-e0d0-42f7-9371-a374a5976adf",
             "section_name": "I",
             "faculty_name": "Md. Tanvir Raihan",
             "faculty_code": "MTR",
@@ -2164,7 +2164,7 @@
             "isMapped": false
           },
           {
-            "section_id": "2abd232b-6c96-4098-bafb-6fc36f90a1ba",
+            "section_id": "98291b48-2d13-4abe-8d54-65a324c39faf",
             "section_name": "J",
             "faculty_name": "Raiyan Janik Monir",
             "faculty_code": "RJM",
@@ -2193,7 +2193,7 @@
             "isMapped": false
           },
           {
-            "section_id": "51c54f40-e483-41cc-8819-8f6d4027bcdf",
+            "section_id": "c7553547-8f29-4d6e-ba81-9eec9df381d1",
             "section_name": "K",
             "faculty_name": "Khandokar Md. Rahat Hossain",
             "faculty_code": "KMRH",
@@ -2222,7 +2222,7 @@
             "isMapped": false
           },
           {
-            "section_id": "abee53d4-a729-4cce-8826-531a548133a2",
+            "section_id": "7adfe18b-13ea-4d27-92a2-5885da8c8fce",
             "section_name": "L",
             "faculty_name": "Raiyan Janik Monir",
             "faculty_code": "RJM",
@@ -2251,7 +2251,7 @@
             "isMapped": false
           },
           {
-            "section_id": "4bb313c8-c705-4810-881b-a344b5af994e",
+            "section_id": "63671be0-239b-4c94-9281-2d095de05995",
             "section_name": "M",
             "faculty_name": "Jerin Hasan Priya",
             "faculty_code": "JHP",

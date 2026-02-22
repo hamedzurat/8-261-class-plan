@@ -31,6 +31,13 @@ async function generateTSVs() {
     const uniqueFaculties = new Map<string, string>();
 
     for (const course of courses) {
+      // Sort sections by section name
+      course.sections.sort((a, b) =>
+        a.section_name.localeCompare(b.section_name, undefined, {
+          numeric: true,
+        }),
+      );
+
       const sectionRows: string[] = [];
 
       // Headers for this course's section TSV
@@ -163,7 +170,11 @@ async function generateTSVs() {
 
     // Generate Faculty TSV
     const facultyRows = ["Faculty Name\tFaculty Code"];
-    for (const [code, name] of uniqueFaculties.entries()) {
+    const sortedFaculties = Array.from(uniqueFaculties.entries()).sort((a, b) =>
+      a[0].localeCompare(b[0]),
+    );
+
+    for (const [code, name] of sortedFaculties) {
       facultyRows.push(`${name}\t${code}`);
     }
 
